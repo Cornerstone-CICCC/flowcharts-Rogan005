@@ -22,7 +22,7 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
-![Exercise1](Exercise 1 Feet to Centimeters.png)
+![Exercise1](flowcharts/Exercise%201%20Feet%20to%20Centimeters.png)
 ## Exercise 2
 
 Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area.
