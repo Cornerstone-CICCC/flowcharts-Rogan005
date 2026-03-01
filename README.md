@@ -34,6 +34,7 @@ Pseudocode:
 - Print A
 
 ### _Answer_
+![Exercise2](flowcharts/Exercise%202%20Area%20of%20a%20Rectangle.png)
 
 ## Exercise 3
 
