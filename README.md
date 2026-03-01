@@ -50,7 +50,7 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
-![Exercise2](flowcharts/Exercise%204%20Triangle%20Validity.png)
+![Exercise4](flowcharts/Exercise%204%20Triangle%20Validity.png)
 
 ## Exercise 5
 
@@ -68,3 +68,5 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+![Exercise5](flowcharts/Exercise%205%20Student%20Grading%20System.png)
+
