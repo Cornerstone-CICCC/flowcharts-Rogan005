@@ -43,6 +43,7 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
+![Exercise3](flowcharts/Exercise%203%20Largest%20of%20Three%20Num.png)
 
 ## Exercise 4
 
